@@ -1,0 +1,12 @@
+import { initializeApp } from 'firebase/app';
+
+// TODO: Replace the following with your app's Firebase project configuration
+const firebaseConfig = {https://dragon-tkn.firebaseapp.com/__/auth/handler}
+  //...
+};
+
+const app = initializeApp(https://dragon-tkn.firebaseapp.com/__/auth/handler);
+
+
+
+
